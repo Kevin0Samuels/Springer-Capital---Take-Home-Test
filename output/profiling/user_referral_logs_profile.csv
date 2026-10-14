@@ -1,0 +1,6 @@
+Column Name,Data Type,Null Count,Percentage Populated,Distinct Value Count
+id,int64,0,100.0%,96
+user_referral_id,object,0,100.0%,78
+source_transaction_id,object,79,17.71%,17
+created_at,object,0,100.0%,96
+is_reward_granted,bool,0,100.0%,2

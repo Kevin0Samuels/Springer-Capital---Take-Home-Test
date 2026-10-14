@@ -1,0 +1,12 @@
+Column Name,Data Type,Null Count,Percentage Populated,Distinct Value Count
+referral_at,object,0,100.0%,44
+referral_id,object,0,100.0%,46
+referee_id,object,3,93.48%,37
+referee_name,object,3,93.48%,35
+referee_phone,object,0,100.0%,33
+referral_reward_id,float64,38,17.39%,3
+referral_source,object,0,100.0%,3
+referrer_id,object,13,71.74%,13
+transaction_id,object,13,71.74%,27
+updated_at,object,0,100.0%,40
+user_referral_status_id,int64,0,100.0%,3

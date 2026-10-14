@@ -1,0 +1,5 @@
+Column Name,Data Type,Null Count,Percentage Populated,Distinct Value Count
+id,int64,0,100.0%,3
+reward_value,object,0,100.0%,3
+created_at,object,0,100.0%,3
+reward_type,int64,0,100.0%,1
